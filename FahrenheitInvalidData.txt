@@ -1,0 +1,16 @@
+Invalid input at line number 1: 90,91
+Invalid input at line number 2: 90,
+Invalid input at line number 3: 91.,
+Invalid input at line number 4: asdfsdfsdfsdfs
+Invalid input at line number 5: 92.,
+Invalid input at line number 6: 93.,
+Invalid input at line number 7: 94.,
+Invalid input at line number 8: 95.,
+Invalid input at line number 9: 96.,
+Invalid input at line number 10: 97.,
+Invalid input at line number 11: 98.,
+Invalid input at line number 12: 99.,
+Invalid input at line number 13: 100.,
+Invalid input at line number 14: 1000.,
+Invalid input at line number 15: -1000.,
+There is no valid input!

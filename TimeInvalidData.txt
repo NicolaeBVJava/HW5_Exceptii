@@ -1,0 +1,4 @@
+Invalid input at line number 2: 111 222
+Invalid input at line number 3: qasdfsd
+Invalid input at line number 4: 
+Invalid input at line number 5: -1 23
